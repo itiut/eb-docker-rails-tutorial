@@ -1,4 +1,4 @@
-practice (仮)
+Elastic Beanstalk + Docker + Ruby on Rails tutorial
 ====
 
 ## Development environment setup
